@@ -1,6 +1,8 @@
 woxxy / MySQL-backup-to-Amazon-S3
 =================================
 
+This fork is an adaptation of the mysql backup to Amazon S3 script in order to backup a few directories
+
 (This is not really an application, just a manual and some lines of code)
 
 Amazon S3 can be an interestingly safe and cheap way to store your important data. Some of the most important data in the world is saved in... MySQL, and surely mine is quite important, so I needed such a script.
